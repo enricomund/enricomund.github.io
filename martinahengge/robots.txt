@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://JonSn0w.github.io/sitemap.xml
