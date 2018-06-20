@@ -73,7 +73,7 @@ body {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #3E3F3A;
+  color: #FEFDFE;
   text-align: left;
   background-color: #fff;
 }
@@ -171,7 +171,7 @@ sup {
 }
 
 a {
-  color: #93C54B;
+  color: #8E8C84;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -9574,4 +9574,3 @@ a.text-dark:hover, a.text-dark:focus {
 .close:hover {
   color: #b9a78a;
 }
-

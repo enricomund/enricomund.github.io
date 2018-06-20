@@ -9,7 +9,8 @@
 
 # Also, for your post bylines, add author info for yourself in `_data/authors.yml`.
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
-
+gems:
+  - octopress-debugger
 # Site settings
 title: Martina Hengge
 description: PhD Candidate in Economics, Graduate Institute Geneva &#x1f784
@@ -30,15 +31,15 @@ features-title: Featured
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to contact me with any questions, concerns, or just to say hello.
-blog_logo: "/images/logo.png"
+blog_logo:
 # on all pages (and the first three you list display with greeting, if included)
 social:
+  email: mailto:martina.hengge[at]graduateinstitute.com
   github: https://github.com/mhengge
-  deviantart: 
-  dribbble: 
+  deviantart:
+  dribbble:
   linkedin-square: https://www.linkedin.com/in/martina-hengge-617a1066/
   twitter:
-  email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
